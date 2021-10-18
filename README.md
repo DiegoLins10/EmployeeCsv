@@ -8,7 +8,7 @@ linha), armazenando-os em uma lista. Depois, ordena os dados dessa lista e mostr
 - IComparable
 
 
-![](https://github.com/DiegoLins10/EmployeeCsv/blob/master/a.png)
+![](https://github.com/DiegoLins10/EmployeeCsv/blob/master/salary.png)
 
 
 
