@@ -7,8 +7,8 @@ linha), armazenando-os em uma lista. Depois, ordena os dados dessa lista e mostr
 - C# .Net Core
 - IComparable
 
-
-![](https://github.com/DiegoLins10/EmployeeCsv/blob/master/Salary.png)
+## Ordenando por salario
+![](https://github.com/DiegoLins10/EmployeeCsv/blob/master/EmployeeCsv/salary.png)
 
 
 
