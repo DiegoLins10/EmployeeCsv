@@ -21,7 +21,7 @@ namespace EmployeeCsv.Entities
         }
         public int CompareTo(object obj)
         {
-            if (!(obj is Employee))
+            if (!(obj is Employee)) // verificando se o objeto é employee
             {
                 throw new ArgumentException("Comparing error: argument is not an Employee");
             }
