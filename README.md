@@ -9,5 +9,8 @@ Um programa que gera um arquivo CSV ordenando os nomes dos funcionarios com ICom
 ## Ordenando por salario
 ![](https://github.com/DiegoLins10/EmployeeCsv/blob/master/EmployeeCsv/salary.png)
 
+## IComparable logica
+![](https://github.com/DiegoLins10/EmployeeCsv/blob/master/EmployeeCsv/icomparable.png)
+
 
 
